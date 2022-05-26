@@ -85,84 +85,122 @@ addEventListener("keydown", ev => {
         a.classList.toggle("red")
         a.classList.toggle("apasareRED")
     } else if (ev.keyCode === 66) {
-        b.classList.toggle("red")
-        b.classList.toggle("apasareRED")
+        b.classList.toggle("bej")
+        b.classList.toggle("apasareBej")
     } else if (ev.keyCode === 67) {
-        c.style.backgroundColor = "#560202"
+        c.classList.toggle("orange")
+        c.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 68) {
-        d.style.backgroundColor = "#560202"
+        d.classList.toggle("orange")
+        d.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 69) {
-        e.style.backgroundColor = "#560202"
+        e.classList.toggle("orange")
+        e.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 70) {
-        f.style.backgroundColor = "#560202"
+        f.classList.toggle("yellow")
+        f.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 71) {
-        g.style.backgroundColor = "#560202"
+        g.classList.toggle("bej")
+        g.classList.toggle("apasareBej")
     }else if (ev.keyCode === 72) {
-        h.style.backgroundColor = "#560202"
+        h.classList.toggle("bej")
+        h.classList.toggle("apasareBej")
     }else if (ev.keyCode === 73) {
-        i.style.backgroundColor = "#560202"
+        i.classList.toggle("orange")
+        i.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 74) {
-        j.style.backgroundColor = "#560202"
+        j.classList.toggle("yellow")
+        j.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 75) {
-        k.style.backgroundColor = "#560202"
+        k.classList.toggle("orange")
+        k.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 76) {
-        l.style.backgroundColor = "#560202"
+        l.classList.toggle("flamingo")        
+        l.classList.toggle("apasareFlamingo") 
     }else if (ev.keyCode === 77) {
-        m.style.backgroundColor = "#560202"
+        m.classList.toggle("yellow")
+        m.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 78) {
-        n.style.backgroundColor = "#560202"
+        n.classList.toggle("bej")       
+        n.classList.toggle("apasareBej")
     }else if (ev.keyCode === 79) {
-        o.style.backgroundColor = "#560202"
+        o.classList.toggle("flamingo")
+        o.classList.toggle("apasareFlamingo")
     }else if (ev.keyCode === 80) {
-        p.style.backgroundColor = "#560202"
+        p.classList.toggle("red")
+        p.classList.toggle("apasareRED")
     }else if (ev.keyCode === 81) {
-        q.style.backgroundColor = "#560202"
+        q.classList.toggle("red")
+        q.classList.toggle("apasareRED")
     }else if (ev.keyCode === 82) {
-        r.style.backgroundColor = "#560202"
+        r.classList.toggle("yellow")
+        r.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 83) {
-        s.style.backgroundColor = "#560202"
+        s.classList.toggle("flamingo")
+        s.classList.toggle("apasareFlamingo")
     }else if (ev.keyCode === 84) {
-        t.style.backgroundColor = "#560202"
+        t.classList.toggle("bej")
+        t.classList.toggle("apasareBej")
     }else if (ev.keyCode === 85) {
-        u.style.backgroundColor = "#560202"
+        u.classList.toggle("yellow")
+        u.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 86) {
-        v.style.backgroundColor = "#560202"
+        v.classList.toggle("yellow")
+        v.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 87) {
-        w.style.backgroundColor = "#560202"
+        w.classList.toggle("flamingo")
+        w.classList.toggle("apasareFlamingo")
     }else if (ev.keyCode === 88) {
-        x.style.backgroundColor = "#560202"
+        x.classList.toggle("flamingo")
+        x.classList.toggle("apasareFlamingo")
     }else if (ev.keyCode === 89) {
-        y.style.backgroundColor = "#560202"
+        y.classList.toggle("bej")
+        y.classList.toggle("apasareBej")
     }else if (ev.keyCode === 90) {
-        z.style.backgroundColor = "#560202"
+        z.classList.toggle("red")
+        z.classList.toggle("apasareRED")
     }else if (ev.keyCode === 48) {
-        a0.style.backgroundColor = "#560202"
+        a0.classList.toggle("red")
+        a0.classList.toggle("apasareRED")
     }else if (ev.keyCode === 49) {
-        a1.style.backgroundColor = "#560202"
+        a1.classList.toggle("red")
+        a1.classList.toggle("apasareRED")
     }else if (ev.keyCode === 50) {
-        a2.style.backgroundColor = "#560202"
+        a2.classList.toggle("flamingo")
+        a2.classList.toggle("apasareFlamingo")
     }else if (ev.keyCode === 51) {
-        a3.style.backgroundColor = "#560202"
+        a3.classList.toggle("orange")
+        a3.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 52) {
-        a4.style.backgroundColor = "#560202"
+        a4.classList.toggle("yellow")
+        a4.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 53) {
-        a5.style.backgroundColor = "#560202"
+        a5.classList.toggle("bej")
+        a5.classList.toggle("apasareBej")
     }else if (ev.keyCode === 54) {
-        a6.style.backgroundColor = "#560202"
+        a6.classList.toggle("bej")
+        a6.classList.toggle("apasareBej")
     }else if (ev.keyCode === 55) {
-        a7.style.backgroundColor = "#560202"
+        a7.classList.toggle("yellow")
+        a7.classList.toggle("apasareYellow")
     }else if (ev.keyCode === 56) {
-        a8.style.backgroundColor = "#560202"
+        a8.classList.toggle("orange")       
+        a8.classList.toggle("apasareOrange")
     }else if (ev.keyCode === 57) {
-        a9.style.backgroundColor = "#560202"
+        a9.classList.toggle("flamingo")
+        a9.classList.toggle("apasareFlamingo")
     } else if (ev.keyCode === 27) {
-        esc        .style.backgroundColor = "#560202"
+        esc  .classList.toggle("red")
+        esc  .classList.toggle("apasareRED")
     }else if (ev.keyCode === 8) {
-        back       .style.backgroundColor = "#560202"
+        back .classList.toggle("red")
+        back .classList.toggle("apasareRED")
     }else if (ev.keyCode === 9) {
-        tAB        .style.backgroundColor = "#560202"
+        tAB  .classList.toggle("red")
+        tAB  .classList.toggle("apasareRED")
     }else if (ev.keyCode === 13) {
-        eNTER      .style.backgroundColor = "#560202"
+        eNTER.classList.toggle("red")
+        eNTER.classList.toggle("apasareRED")
     }
 
 
@@ -179,11 +217,139 @@ addEventListener("keydown", ev => {
 
 
 })
-
 
 addEventListener("keyup", ev => {
     if (ev.keyCode === 65) {
         a.classList.toggle("red")
         a.classList.toggle("apasareRED")
-    }
-})
+    } else if (ev.keyCode === 66) {
+        b.classList.toggle("bej")
+        b.classList.toggle("apasareBej")
+    } else if (ev.keyCode === 67) {
+        c.classList.toggle("orange")
+        c.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 68) {
+        d.classList.toggle("orange")
+        d.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 69) {
+        e.classList.toggle("orange")
+        e.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 70) {
+        f.classList.toggle("yellow")
+        f.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 71) {
+        g.classList.toggle("bej")
+        g.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 72) {
+        h.classList.toggle("bej")
+        h.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 73) {
+        i.classList.toggle("orange")
+        i.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 74) {
+        j.classList.toggle("yellow")
+        j.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 75) {
+        k.classList.toggle("orange")
+        k.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 76) {
+        l.classList.toggle("flamingo")
+        l.classList.toggle("apasareFlamingo")
+    }else if (ev.keyCode === 77) {
+        m.classList.toggle("yellow")
+        m.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 78) {
+        n.classList.toggle("bej")
+        n.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 79) {
+        o.classList.toggle("flamingo")
+        o.classList.toggle("apasareFlamingo")
+    }else if (ev.keyCode === 80) {
+        p.classList.toggle("red")
+        p.classList.toggle("apasareRED")
+    }else if (ev.keyCode === 81) {
+        q.classList.toggle("red")
+        q.classList.toggle("apasareRED")
+    }else if (ev.keyCode === 82) {
+        r.classList.toggle("yellow")
+        r.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 83) {
+        s.classList.toggle("flamingo")
+        s.classList.toggle("apasareFlamingo")
+    }else if (ev.keyCode === 84) {
+        t.classList.toggle("bej")
+        t.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 85) {
+        u.classList.toggle("yellow")
+        u.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 86) {
+        v.classList.toggle("yellow")
+        v.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 87) {
+        w.classList.toggle("flamingo")
+        w.classList.toggle("apasareFlamingo")
+    }else if (ev.keyCode === 88) {
+        x.classList.toggle("flamingo")
+        x.classList.toggle("apasareFlamingo")
+    }else if (ev.keyCode === 89) {
+        y.classList.toggle("bej")
+        y.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 90) {
+        z.classList.toggle("red")
+        z.classList.toggle("apasareRED")
+    }else if (ev.keyCode === 48) {
+        a0.classList.toggle("red")
+        a0.classList.toggle("apasareRED")
+    }else if (ev.keyCode === 49) {
+        a1.classList.toggle("red")
+        a1.classList.toggle("apasareRED")
+    }else if (ev.keyCode === 50) {
+        a2.classList.toggle("flamingo")
+        a2.classList.toggle("apasareFlamingo")
+    }else if (ev.keyCode === 51) {
+        a3.classList.toggle("orange")
+        a3.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 52) {
+        a4.classList.toggle("yellow")
+        a4.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 53) {
+        a5.classList.toggle("bej")
+        a5.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 54) {
+        a6.classList.toggle("bej")
+        a6.classList.toggle("apasareBej")
+    }else if (ev.keyCode === 55) {
+        a7.classList.toggle("yellow")
+        a7.classList.toggle("apasareYellow")
+    }else if (ev.keyCode === 56) {
+        a8.classList.toggle("orange")
+        a8.classList.toggle("apasareOrange")
+    }else if (ev.keyCode === 57) {
+        a9.classList.toggle("flamingo")
+        a9.classList.toggle("apasareFlamingo")
+    } else if (ev.keyCode === 27) {
+        esc  .classList.toggle("red")
+        esc  .classList.toggle("apasareRED")
+    }else if (ev.keyCode === 8) {
+        back .classList.toggle("red")
+        back .classList.toggle("apasareRED")
+    }else if (ev.keyCode === 9) {
+        tAB  .classList.toggle("red")
+        tAB  .classList.toggle("apasareRED")
+    }else if (ev.keyCode === 13) {
+        eNTER.classList.toggle("red")
+        eNTER.classList.toggle("apasareRED")
+    }})
+
+
+
+
+
+
+
+// addEventListener("keyup", ev => {
+//     if (ev.keyCode === 65) {
+//         a.classList.toggle("red")
+//         a.classList.toggle("apasareRED")
+//     }
+// })
